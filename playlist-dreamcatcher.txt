@@ -1,6 +1,6 @@
 -Dreamcatcher
 -I-zone
--Javascript
+-Javascript/React
 -Vue
 -Twice
 -Red Velvet
