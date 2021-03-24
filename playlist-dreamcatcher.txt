@@ -1,4 +1,6 @@
 -Dreamcatcher
 -I-zone
+-Javascript
+-Vue
 -Twice
 -Red Velvet
